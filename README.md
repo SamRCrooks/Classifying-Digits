@@ -1,2 +1,2 @@
 # Classifying-Digits
-Classification of Digits
+Classification of handwritten digits
