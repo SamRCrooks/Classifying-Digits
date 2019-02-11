@@ -1,2 +1,2 @@
 # Classifying-Digits
-test
+Classification of Digits
